@@ -1,0 +1,24 @@
+.ArtistasC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.OneD, .AvrilL, .OneR {
+    width: 60%; 
+    text-align: center; 
+}
+
+.imgTres{
+    width: 23%;
+}
+
+body {
+    background-image: url('./images/BackgroundM.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
